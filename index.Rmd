@@ -1,12 +1,12 @@
 --- 
-title: "Doctrinal Declarations of Evangel Presbytery"
+title: "Doctrinal Declarations of the Presbytery"
 author: "Evangel Presbytery"
 date: "`r Sys.Date()`"
 documentclass: book
 colorlinks: true
 site: bookdown::bookdown_site
 github-repo: Evangel-Presbytery/evangel-ddp
-description: "This are Evangel Presbytery's Doctrinal Declarations."
+description: "These are Evangel Presbytery's Doctrinal Declarations."
 ---
 
 # Welcome {-}
