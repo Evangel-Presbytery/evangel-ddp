@@ -1,0 +1,24 @@
+--- 
+title: "Doctrinal Declarations of Evangel Presbytery"
+author: "Evangel Presbytery"
+date: "`r Sys.Date()`"
+documentclass: book
+colorlinks: true
+site: bookdown::bookdown_site
+github-repo: Evangel-Presbytery/evangel-ddp
+description: "This are Evangel Presbytery's Doctrinal Declarations."
+---
+
+# Welcome {-}
+
+These are the official Doctrinal Declarations of Evangel Presbytery. You can always find the latest online version at https://ddp.evangelpresbytery.com and download the [latest PDF version here](https://ddp.evangelpresbytery.com/evangel-presbytery-ddp.pdf). A record of the changes can be found in the [Updates](https://ddp.evangelpresbytery.com/updates.html) section at the end of the book. 
+
+# Preface if any {-}
+
+[](){#front-matter-preface}
+
+## A. Preface section if any {-}
+
+
+<!--- End of frontmatter, start of regular page numbering-->
+\mainmatter
