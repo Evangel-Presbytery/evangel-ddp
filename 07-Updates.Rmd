@@ -1,6 +1,6 @@
 # Updates {-}
 
-*Significant changes to these Doctrinal Declarations will be listed here. For a detailed diff hosted at Github, [click here](https://github.com/Evangel-Presbytery/evangel-ddp).*
+*Significant changes to the Doctrinal Declarations of the Presbytery will be listed here. For a detailed diff hosted at Github, [click here](https://github.com/Evangel-Presbytery/evangel-ddp).*
 
 
-* Original Version released (insert date)
+* Original Version adopted by Evangel Presbytery on June 5, 2025. First published ————.
