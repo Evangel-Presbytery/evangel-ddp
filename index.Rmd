@@ -9,9 +9,7 @@ github-repo: Evangel-Presbytery/evangel-ddp
 description: "Evangel Presbytery's Doctrinal Declarations of the Presbytery."
 ---
 
-Doctrinal Declarations of the Presbytery {.h1-but-p}
-
-# Preface {- .small-h1}
+# Doctrinal Declarations of the Presbytery {- data-toc-title="Preface"}
 
 This section of Evangel Presbytery's [constitution](https://bco.evangelpresbytery.com/preface.html#c.-constitution-defined) comprises declarations addressing matters of such doctrinal and moral weight that we believe they rise above the level of the governmental rules laid down in our [Book of Church Order](https://bco.evangelpresbytery.com/). They are more similar in their nature to the Westminster Standards as they aspire to carry on the work of reform in the church of Jesus Christ by addressing errors and sins particular to our own day and age. Recognizing that these declarations are new and relatively untested, we thought it unwise and presumptuous to append them directly to, or to grant them the same constitutional weight as, the Westminster Standards. Therefore we have created these Doctrinal Declarations of the Presbytery. They currently include:
 
