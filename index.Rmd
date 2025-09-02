@@ -9,7 +9,7 @@ github-repo: Evangel-Presbytery/evangel-ddp
 description: "Evangel Presbytery's Doctrinal Declarations of the Presbytery."
 ---
 
-Doctrinal Declarations of the Presbytery {- .h1-but-p}
+Doctrinal Declarations of the Presbytery {.h1-but-p}
 
 # Preface {- .small-h1}
 
