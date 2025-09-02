@@ -1,3 +1,9 @@
+.hidden-header {
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+}
+
 header div h1 a[href="index.html"]::before {
     display: block;
     content: '';
