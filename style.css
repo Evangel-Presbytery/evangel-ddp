@@ -4,7 +4,7 @@
     overflow: hidden;
 }
 
-header div h1 a[href="index.html"]::before {
+header div h1 a[href="index.html"]::before, header div h1 a[href="https://evangelpresbytery.com"]::before {
     display: block;
     content: '';
     background-image: url(logo.png);
