@@ -1,3 +1,16 @@
+/* Hide publication meta-data on title page */
+.quarto-title-meta-heading {
+  display: none;
+}
+.quarto-title-meta-contents {
+  display: none;
+}
+/*--*/
+
+.navbar-logo {
+  max-height: 65px;
+}
+
 .hidden-header {
     visibility: hidden;
     height: 0;
@@ -135,4 +148,10 @@ main ol, main ul {
 
 .sc {
     font-variant: small-caps;
+}
+
+@media (max-width: 991.98px) {
+  #TOC {
+    display: block !important;
+  }
 }

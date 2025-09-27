@@ -1,0 +1,42 @@
+project:
+  type: book
+  post-render:
+    - scripts/fix_links.py
+    - scripts/fix_search_highlight.py
+
+date: today
+date-format: "MMMM D, YYYY"
+
+book:
+  title: "Evangel Presbytery Declarations of Doctrine"
+  description: "<br>This contains the official Declarations of Doctrine for Evangel Presbytery. You can always find the latest online version at <https://ddp.evangelpresbytery.com>. A record of the changes can be found in the [Updates](07-Updates.qmd) section at the end of the book. <p>Last updated on {{< meta date >}}.</p>"
+  repo-url: https://github.com/Evangel-Presbytery/evangel-ddp
+  chapters:
+    - index.qmd
+    - 01-Declaration-of-Doctrine-on-Sexuality.qmd
+    - 02-Declaration-of-Doctrine-on-Abortion.qmd
+    - 07-Updates.qmd
+  sidebar:
+    header: TOCheader.qmd
+    search: true
+  favicon: "evangel-favicon-196.png"
+  navbar: 
+    title: false
+    logo: logo-white.png
+    logo-href: https://evangelpresbytery.com
+    search: false
+    left:
+      - text: Book of Church Order
+        href: https://bco.evangelpresbytery.com
+      - text: Doctrinal Declarations
+        href: https://ddp.evangelpresbytery.com
+      - text: Bylaws
+        href: https://bylaws.evangelpresbytery.com
+
+format:
+  html:
+    number-sections: false
+    css: "style.css"
+    toc-location: left
+    footnotes-hover: false
+    include-in-header: in_header.html

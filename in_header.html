@@ -1,2 +1,26 @@
-<link rel="shortcut icon" href="evangel-favicon-196.png" />
 <script src="https://kit.fontawesome.com/c2565ebea9.js" crossorigin="anonymous"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var toc = document.getElementById('TOC');
+  if (toc) {
+    var tocTitle = document.getElementById('toc-title');
+    if (tocTitle) {
+      tocTitle.remove();
+    }
+    var activeSidebarItem = document.querySelector('.sidebar-item .active');
+    if (activeSidebarItem) {
+      activeSidebarItem.closest('.sidebar-item').appendChild(toc);
+    }
+
+    // Add click listener to TOC links to close sidebar on mobile
+    toc.addEventListener('click', function(e) {
+      if (e.target.tagName === 'A' && window.innerWidth < 992) {
+        var toggleButton = document.querySelector('.quarto-btn-toggle');
+        if (toggleButton) {
+          toggleButton.click();
+        }
+      }
+    });
+  }
+});
+</script>

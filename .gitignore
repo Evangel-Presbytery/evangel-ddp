@@ -5,3 +5,10 @@ _book
 _bookdown_files
 rsconnect
 .DS_Store
+*.Rproj
+_quarto_files
+/.quarto/
+/_site/
+/.luarc.json
+**/*.quarto_ipynb
+.idea
