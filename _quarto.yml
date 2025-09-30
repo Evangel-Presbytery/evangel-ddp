@@ -8,7 +8,7 @@ date: today
 date-format: "MMMM D, YYYY"
 
 book:
-  title: "Evangel Presbytery Declarations of Doctrine"
+  title: "Doctrinal Declarations of the Presbytery"
   description: "<br>This contains the official Declarations of Doctrine for Evangel Presbytery. You can always find the latest online version at <https://ddp.evangelpresbytery.com>. A record of the changes can be found in the [Updates](07-Updates.qmd) section at the end of the book. <p>Last updated on {{< meta date >}}.</p>"
   repo-url: https://github.com/Evangel-Presbytery/evangel-ddp
   chapters:
