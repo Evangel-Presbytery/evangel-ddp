@@ -24,3 +24,10 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 });
 </script>
+// Remove duplication of "Preface" in TOC. Used in conjunction with h2 in index.qmd having .unlisted class.
+<script>
+    // Wait until the DOM is fully loaded
+    document.addEventListener("DOMContentLoaded", function() {
+      document.body.classList.remove("fullcontent");
+    });
+  </script>
