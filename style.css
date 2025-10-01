@@ -7,6 +7,11 @@
 }
 /*--*/
 
+/* No underline in sidebar site title */
+.quarto-sidebar-header h3 > a {
+  text-decoration: none;
+}
+
 /* Search button styling */
 
 .aa-DetachedSearchButton {
