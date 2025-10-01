@@ -8,7 +8,7 @@
 /*--*/
 
 /* No underline in sidebar site title */
-.quarto-sidebar-header h4 > a {
+.quarto-sidebar-header h3 > a {
   text-decoration: none;
 }
 
