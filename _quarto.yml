@@ -4,12 +4,10 @@ project:
     - scripts/fix_links.py
     - scripts/fix_search_highlight.py
 
-date: today
 date-format: "MMMM D, YYYY"
 
 book:
-  title: "Doctrinal Declarations of the Presbytery"
-  description: "<br>This contains the official Declarations of Doctrine for [Evangel Presbytery](https://evangelpresbytery.com). You can always find the latest online version at <https://ddp.evangelpresbytery.com>. A record of the changes can be found in the [Updates](07-Updates.qmd) section at the end of the book. <p>Last updated on {{< meta date >}}.</p>"
+  title: "Doctrinal Declarations of Evangel Presbytery"
   repo-url: https://github.com/Evangel-Presbytery/evangel-ddp
   chapters:
     - index.qmd
