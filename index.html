@@ -96,12 +96,19 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 });
 </script>
+</head><body class="nav-sidebar floating nav-fixed fullcontent quarto-light">// Remove duplication of "Preface" in TOC. Used in conjunction with h2 in index.qmd having .unlisted class.
+<script>
+    // Wait until the DOM is fully loaded
+    document.addEventListener("DOMContentLoaded", function() {
+      document.body.classList.remove("fullcontent");
+    });
+  </script>
 
 
 <link rel="stylesheet" href="style.css">
-</head>
 
-<body class="nav-sidebar floating nav-fixed fullcontent quarto-light">
+
+
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
