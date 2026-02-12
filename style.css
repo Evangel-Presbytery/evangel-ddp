@@ -160,7 +160,7 @@ main ol, main ul {
 
 /* Notes Heading */
 
-section#footnotes:before {
+#footnotes:before {
     content: "Notes";
     display: block;
     font-size: 1.65rem;
