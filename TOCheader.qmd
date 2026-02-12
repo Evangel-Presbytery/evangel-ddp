@@ -1,1 +1,3 @@
 ### [{{< meta book.title >}}](/)
+
+[Download PDF](Doctrinal-Declarations-of-Evangel-Presbytery.pdf)
