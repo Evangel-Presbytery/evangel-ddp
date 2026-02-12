@@ -8,6 +8,7 @@ date-format: "MMMM D, YYYY"
 
 book:
   title: "Doctrinal Declarations of Evangel Presbytery"
+  subtitle: "Adopted June 5, 2025"
   repo-url: https://github.com/Evangel-Presbytery/evangel-ddp
   chapters:
     - index.qmd
@@ -37,3 +38,9 @@ format:
     css: "style.css"
     toc-location: left
     include-in-header: in_header.html
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    toc-title: Table of Contents
+    toc-depth: 2
+    number-sections: false
