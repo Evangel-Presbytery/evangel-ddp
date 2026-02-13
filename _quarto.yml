@@ -39,8 +39,10 @@ format:
     toc-location: left
     include-in-header: in_header.html
   pdf:
+    pdf-engine: xelatex
     documentclass: scrreprt
     toc: true
     toc-title: Table of Contents
     toc-depth: 2
     number-sections: false
+    include-in-header: pdf-styles.tex
