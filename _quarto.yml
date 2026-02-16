@@ -7,7 +7,9 @@ project:
 date-format: "MMMM D, YYYY"
 
 book:
-  title: "Doctrinal Declarations of Evangel Presbytery"
+  title: |
+    Doctrinal Declarations \protect\\
+    of Evangel Presbytery
   author: "Evangel Presbytery"
   subtitle: "Amended June 5, 2025"
   repo-url: https://github.com/Evangel-Presbytery/evangel-ddp
