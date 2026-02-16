@@ -21,6 +21,11 @@ jobs:
         with:
           tinytex: true
 
+      - name: Fetch Global Styles
+        run: |
+          curl -L https://raw.githubusercontent.com/Evangel-Presbytery/evangel-docs-styles/main/evangel-docs-global.css -o evangel-docs-global.css
+          curl -L https://raw.githubusercontent.com/Evangel-Presbytery/evangel-docs-styles/main/evangel-docs-global.tex -o evangel-docs-global.tex
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
