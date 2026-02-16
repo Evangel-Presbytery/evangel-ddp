@@ -51,5 +51,5 @@ format:
     include-in-header:
       - evangel-docs-global.tex
       - ddp.tex
-      text: |
+      - text: |
         \author{}
