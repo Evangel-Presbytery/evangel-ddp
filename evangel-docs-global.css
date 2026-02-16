@@ -1,0 +1,173 @@
+/* Hide publication meta-data on title page */
+.quarto-title-meta-heading {
+  display: none;
+}
+.quarto-title-meta-contents {
+  display: none;
+}
+/*--*/
+
+/* No underline in sidebar site title */
+.quarto-sidebar-header h3 > a {
+  text-decoration: none;
+}
+
+/* Search button styling */
+
+.aa-DetachedSearchButton {
+  background-color: #eee;
+  width: 100%;
+  text-align: left;
+}
+
+/* remove extra space in sidebar header */
+.quarto-sidebar-header {
+  margin-bottom: -1.5em;
+}
+
+/*--*/
+
+.navbar-logo {
+  max-height: 65px;
+}
+
+.sidebar li {
+    break-inside: avoid-column;
+}
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+
+p code {
+  white-space: inherit;
+}
+
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+
+pre code {
+  white-space: inherit;
+}
+
+blockquote {
+    margin: 0 0 1rem;
+    padding: .625rem 1.25em;
+}
+
+.poetry blockquote p {
+    padding-left: 2em;
+    text-indent: -2em;
+    margin-bottom: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.copyable {
+    margin: 0 0 1rem;
+    padding: 1.25rem 1.25rem;
+    background-color: #f0f0f0;
+}
+
+.copyable p {
+    margin: 0;
+}
+
+.copyable p.level2 {
+    padding-left: 1.5em;
+}
+
+.copyable p.level3 {
+    margin-left: 3em;
+}
+
+a {
+    color: #900d12;
+}
+
+a:hover {
+    color: #bb2026;
+}
+
+.btn-outline-primary {
+    color: #900d12;
+    border-color: #900d12;
+}
+
+.btn-outline-primary:hover {
+    background-color: #900d12;
+    border-color: #900d12;
+}
+
+.bg-primary {
+    background-color: #555 !important;
+}
+
+main ul > li > ul {
+    list-style-type: circle;
+}
+
+ul.folder-outline, .folder-outline ul {
+    list-style-type: none;
+    margin-left: .1em;
+}
+
+.folder-outline li::before {
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Pro', FontAwesome, sans-serif;
+    width: 1.5em;
+    margin-left: -1.5em;
+    color: #686868;
+    text-align: center;
+}
+
+.folder-outline li.open-folder::before {
+    content: '\f07c';
+}
+
+.folder-outline li.closed-folder::before {
+    content: '\f07b';
+}
+
+.folder-outline li.doc::before {
+    content: '\f15b';
+}
+
+main ol, main ul {
+    margin-bottom: 1rem;
+}
+
+.nb {
+    white-space: nowrap;
+}
+
+.sc {
+    font-variant: small-caps;
+}
+
+@media (max-width: 991.98px) {
+  #TOC {
+    display: block !important;
+  }
+}
+
+/* Notes Heading */
+
+#footnotes:before {
+    content: "Notes";
+    display: block;
+    font-size: 1.65rem;
+    font-weight: 600;
+    margin-top: 2rem;
+}
+
+#footnotes > hr:first-child {
+    margin-top: 0;
+}
