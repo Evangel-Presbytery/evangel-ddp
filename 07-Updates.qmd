@@ -2,11 +2,11 @@
 
 *Significant changes to the Doctrinal Declarations of the Presbytery will be listed here, the most recent appearing at the top. For a detailed diff hosted at Github, [click here](https://github.com/Evangel-Presbytery/evangel-ddp).*
 
-* **Current version: On June 5, 2025, Evangel Presbytery approved the following:**
-  * **The creation of the Doctrinal Declarations of the Presbytery (DDP) as part of the Presbytery's Constitution.**
-  * **The adoption of the doctrinal portions of “Declaration of Doctrine and Policies Concerning Sexuality” (formerly BCO 28), with extensive revisions, into the DDP as the [Declaration of Doctrine on Sexuality](01-Declaration-of-Doctrine-on-Sexuality.qmd).**
-  * **The adoption of the content of “Abortion and the Church: What We Teach” (formerly BCO 29), as written with no revisions, into the DDP as the [Declaration of Doctrine on Abortion](02-Declaration-of-Doctrine-on-Abortion.qmd).**
-  * **Amendments to the Book of Church Order comprising the adoption of policy statements, as revised, from "Declaration of Doctrine and Policies Concerning Sexuality" into the Directory for Worship.**
-  * **Amendments to the BCO defining the relative constitutional weight of the DDP.**
+* **Current version: On June 5, 2025, Evangel Presbytery ratified the following:**
+  * **Create the Doctrinal Declarations of the Presbytery (DDP) as part of the Presbytery's Constitution. (BCO Preface\ §C, BCO\ 15.5)**
+  * **Adopt the doctrinal portions of “Declaration of Doctrine and Policies Concerning Sexuality” (formerly BCO 28), with extensive revisions, into the DDP as the [Declaration of Doctrine on Sexuality](01-Declaration-of-Doctrine-on-Sexuality.qmd).**
+  * **Adopt the content of “Abortion and the Church: What We Teach” (formerly BCO 29), as written with no revisions, into the DDP as the [Declaration of Doctrine on Abortion](02-Declaration-of-Doctrine-on-Abortion.qmd).**
+  * **Amendments to the Book of Church Order comprising the adoption of policy statements, as revised, from "Declaration of Doctrine and Policies Concerning Sexuality" into the Directory for Worship. (BCO 71–72)**
+  * **Amendments throughout the BCO defining the relative constitutional weight of the DDP.**
 * A statement on abortion called "Abortion: What We Teach" was adopted into Evangel's Book of Church Order as chapter\ 29 on October 6, 2023.
 * A chapter called "Declaration of Doctrine and Policies Concerning Sexuality" (ch.\ 28 at the time) was included in Evangel Presbytery's original Book of Church Order, adopted on February 20, 2019.
