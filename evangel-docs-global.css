@@ -25,7 +25,7 @@
   margin-bottom: -1.5em;
 }
 
-/*--*/
+/*--------------------------*/
 
 .navbar-logo {
   max-height: 65px;
@@ -92,6 +92,10 @@ a {
 
 a:hover {
     color: #bb2026;
+}
+
+strong a {
+  font-weight: inherit;
 }
 
 .btn-outline-primary {
